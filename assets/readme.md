@@ -1,4 +1,4 @@
-# the best Git hub repo out there
+# The best Git hub repo out there
 
 This is readme
 
